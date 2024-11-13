@@ -1,0 +1,15 @@
+# Ignore environment variables file
+.env
+
+# Ignore specific Python scripts
+app.py
+app2.py
+ntscrap.py
+scrapo.py
+
+# Ignore other files or directories
+# For example, to ignore all .log files
+*.log
+
+# To ignore a directory named 'temp'
+temp/
